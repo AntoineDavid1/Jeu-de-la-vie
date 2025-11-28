@@ -40,7 +40,3 @@ puis mise à jour **uniquement après analyse de toute la grille**.
 - Afficher visuellement l’évolution de l’automate.
 - Étudier les motifs célèbres (oscillateurs, motifs stables, vaisseaux…).
 
----
-
-## 📂 Structure du projet (exemple)
-
