@@ -1,4 +1,4 @@
-# 🧬 Jeu de la Vie — Conway's Game of Life
+# 🧬 Jeu de la Vie
 
 Projet réalisé par **David Antoine**, **Leslie Ocloo** et **Michèle Marques**.
 
